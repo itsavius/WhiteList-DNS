@@ -22,6 +22,7 @@ mu.ariba.com
 service.ariba.com
 smetrics.ariba.com
 www.ariba.com
+siteintercept.qualtrics.com
 aa.com
 aerolineas.com.ar
 aeromar.com.mx
