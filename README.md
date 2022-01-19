@@ -1,2 +1,2 @@
-# White List - Domains Mexico
-White List Hosts Domains Mexico for AdGuard or PiHole
+# White List - Dominios Mexico
+White List Domains in Mexico for AdGuard or PiHole
