@@ -1,3 +1,7 @@
+zoom.us
+goto.com
+global.gotowebinar.com
+global.gotomeeting.com
 aa.com
 aerolineas.com.ar
 aeromar.com.mx
