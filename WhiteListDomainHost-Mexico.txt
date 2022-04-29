@@ -548,7 +548,6 @@ lyft.com
 mexico.didiglobal.com
 uber.com
 ubereats.com
-u.mitec.com.mx
 adobe.com
 amazonaws.com
 api.fpjs.io
@@ -594,6 +593,7 @@ symcd.com
 technet.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
+u.mitec.com.mx
 update.microsoft.com
 verisign.com
 wac.phicdn.net
