@@ -548,6 +548,7 @@ lyft.com
 mexico.didiglobal.com
 uber.com
 ubereats.com
+u.mitec.com.mx
 adobe.com
 amazonaws.com
 api.fpjs.io
