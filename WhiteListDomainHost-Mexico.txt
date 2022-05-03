@@ -192,6 +192,7 @@ mail.live.com
 200.57.3.89
 acceso.sat.gob.mx
 aduanas.gob.mx
+agsc.siat.sat.gob.mx
 anualpf.clouda.sat.gob.mx
 anualpm.clouda.sat.gob.mx
 anualpm.cloudapp.net
@@ -224,6 +225,7 @@ encuentra.gob.mx
 facturacionfonadin.capufe.gob.mx
 finanzas.df.gob.mx
 fonacot.gob.mx
+framework-gb.cdn.gob.mx
 gob.mx
 gsc.siat.sat.gob.mx
 idse.imss.gob.mx
@@ -232,6 +234,7 @@ infonavit.org.mx
 informativas.sat.gob.mx
 infotec.gob.mx
 inin.gob.mx
+login.siat.sat.gob.mx
 login.siat.sat.gob.mx
 loginda.siat.sat.gob.mx
 m.sat.gob.mx
@@ -267,6 +270,7 @@ ventanillaunica.gob.mx
 verificacfdi.facturaelectronica.sat.gob.mx
 www2.sat.gob.mx
 wwwmat.sat.gob.mx
+wwwmatnp.sat.gob.mx
 accounts.gstatic.com
 admanager.google.com
 ajax.googleapis.com
