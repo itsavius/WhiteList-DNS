@@ -192,6 +192,7 @@ mail.live.com
 200.57.3.89
 acceso.sat.gob.mx
 aduanas.gob.mx
+agj.siat.sat.gob.mx
 agsc.siat.sat.gob.mx
 anualpf.clouda.sat.gob.mx
 anualpm.clouda.sat.gob.mx
@@ -201,6 +202,7 @@ aplicaciones4.sct.gob.mx
 aplicacionesc.mat.sat.gob.mx
 app.cfe.gob.mx
 ayst.gob.mx
+banxico.org.mx
 capufe.gob.mx
 ccpm.org.mx
 cfdiau.sat.gob.mx
@@ -235,7 +237,6 @@ informativas.sat.gob.mx
 infotec.gob.mx
 inin.gob.mx
 login.siat.sat.gob.mx
-login.siat.sat.gob.mx
 loginda.siat.sat.gob.mx
 m.sat.gob.mx
 map.infonavit.org.mx
@@ -244,6 +245,7 @@ miuc.infonavit.org.mx
 omawww.sat.gob.mx
 paic.plataforma.sat.gob.mx
 portal.infonavit.org.mx
+portal.sat.gob.mx
 portalcfdi.facturaelectronica.sat.gob.mx
 portalmx.infonavit.org.mx
 portalsat.plataforma.sat.gob.mx
@@ -254,14 +256,16 @@ ptscdecprov.clouda.sat.gob.mx
 ptscdecprovcls.clouda.sat.gob.mx
 rfc.siat.sat.gob.mx
 sat.gob.mx
-sat.gob.mx
 satid.sat.gob.mx
 sct.gob.mx
 servicios.fonacot.gob.mx
 servicios.sat.gob.mx
+serviciosdigitales.imss.gob.mx
 sfpya.edomexico.gob.mx
 shcp.gob.mx
 siat.sat.gob.mx
+sipare.imss.gob.mx
+sipress.imss.gob.mx
 tallersabermas.infonavit.org.mx
 toluca.gob.mx
 tramites.digitales.sat.gob.mx
@@ -552,6 +556,7 @@ lyft.com
 mexico.didiglobal.com
 uber.com
 ubereats.com
+java.com
 adobe.com
 amazonaws.com
 api.fpjs.io
