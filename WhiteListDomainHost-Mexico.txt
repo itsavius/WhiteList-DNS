@@ -50,7 +50,6 @@ ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 aa.com
 aerolineas.com.ar
 aeromar.com.mx
-aeromexico.com
 alaskaair.com
 avianca.com
 cat.sabresonicweb.com
