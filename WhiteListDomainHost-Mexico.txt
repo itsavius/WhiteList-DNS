@@ -654,7 +654,6 @@ fe2.update.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 g.live.com
-
 geo-prod.do.dsp.mp.microsoft.com
 ipv6.msftncsi.com
 microsoft.com
@@ -738,8 +737,6 @@ grupoborder.com.mx
 grupojumex.mx
 grupopenafiel.com.mx
 heartlandfpg.dreamhosters.com
-"heartlandfpg.dreamhosters.com
-"
 hersheys-detecno.validame.mx
 hotel-sonne-waldbronn.de
 ikus-solutions.com
@@ -954,8 +951,7 @@ addtoany.com
 adobe.com
 amazonaws.com
 api.fpjs.io
-"api.us-east-1.aiv-delivery.net
-"
+api.us-east-1.aiv-delivery.net
 argotunnel.com
 att.com
 cloudapp.net
