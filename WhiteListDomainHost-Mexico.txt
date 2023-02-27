@@ -102,6 +102,7 @@ ds.kaspersky.com
 gfa.licensemanager.kaspersky-labs.com
 ipm-klca.kaspersky.com
 kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-bjg-st-1.kaspersky-labs.com
 ksn-cinfo-geo.kaspersky-labs.com
 ksn-dc1-file.geoksn.kaspersky.com
@@ -116,6 +117,8 @@ ksn-pp.kaspersky-labs.com
 ksn-stat-geo.kaspersky-labs.com
 ksn-tcert-geo.kaspersky-labs.com
 ksn-tcert.geoksn.kaspersky.com
+ksn-url-geo.kaspersky-labs.com
+ksn-verdict.geoksn.kaspersky.com
 norton.com
 otr.kaspersky.com
 p00.upd.kaspersky.com
