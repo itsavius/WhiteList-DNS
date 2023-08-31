@@ -1,3 +1,18 @@
+#Datos Fijos
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+captive.apple.com
+connectivitycheck.platform.hicloud.com
+userlocation.googleapis.com
+userlocation.googleapis.com
+securetoken.googleapis.com
+www.msftncsi.com.edgesuite.net
+www.msftncsi.com
+www.msftconnecttest.com
+v6ncsi.msedge.net
+v4ncsi.msedge.net
+ipv6.msftconnecttest.com
+#Lista
 1.1.1.1
 148.223.155.4
 148.243.23.92
