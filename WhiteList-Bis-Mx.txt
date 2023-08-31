@@ -2,6 +2,8 @@
 148.223.155.4
 148.243.23.92
 187.210.22.195
+1identity.visualstudio.com
+1identity.vsaex.visualstudio.com
 200.57.180.100
 200.57.3.89
 201.144.111.150
@@ -42,6 +44,7 @@ aeroflash.com.mx
 aerolineas.com.ar
 aeromar.com.mx
 aeromexico.com
+aeromexicorewards.com
 afirme.com.mx
 agj.siat.sat.gob.mx
 agsc.siat.sat.gob.mx
@@ -92,6 +95,7 @@ api.fpjs.io
 api.nexway.store
 api.smoot.apple.com
 api.us-east-1.aiv-delivery.net
+api.vstsusers.visualstudio.com
 apigateway.americanexpress.com
 apigw.americanexpress.com
 aplicaciones.sat.gob.mx
@@ -101,6 +105,7 @@ app.biocheck.net
 app.ccn.com.ni
 app.cfe.gob.mx
 app.iproveedor.com
+app.vssps.visualstudio.com
 apple.com
 appleid.apple.com
 appleiphonecell.com
@@ -130,8 +135,11 @@ authrfs.siat.sat.gob.mx
 autopistaguadalajaratepic.com.mx
 avianca.com
 avis.mx
+awstrack.me
 axtel.mx
 ayst.gob.mx
+azcommprodcus1.commvtwo.visualstudio.com
+azcommprodeus21.commvtwo.visualstudio.com
 azuredns-cloud.net
 b2bmarketplace.com.mx
 b2bproveedores.alen.com.mx
@@ -174,6 +182,7 @@ calculadorasfiscales.gvamundial.com.mx
 caldav.fe.apple-dns.net
 calendars.fe.apple-dns.net
 caminante.mx
+canvasbi.visualstudio.com
 captive.apple.com
 capufe.gob.mx
 carvajaltys.mx
@@ -247,6 +256,7 @@ cms.securimate.com
 cnsns.gob.mx
 cobranzas.com
 cobranzasdata6.com
+code.visualstudio.com
 col.eum-appdynamics.com
 collector-mwd-hsbc.marketia.io
 companyaccount.kaspersky.com
@@ -283,6 +293,7 @@ cyberpuerta.mx
 cz-pra-anx-r008.router.teamviewer.com
 dashif.org
 db.com
+dc.services.visualstudio.com
 dc1-file.ksn.kaspersky-labs.com
 dc1-pp.ksn.kaspersky-labs.com
 dc1-st.ksn.kaspersky-labs.com
@@ -294,15 +305,20 @@ de-fra-anx-r041.router.teamviewer.com
 de-fra-anx-r050.router.teamviewer.com
 de-muc-anx-r014.router.teamviewer.com
 de-nur-anx-r003.router.teamviewer.com
+delivery-ci360.aeromexicorewards.com
 dell.com
 desc.com.mx
 despegar.com.mx
+dev.visualwebsiteoptimizer.com
+developercommunity.visualstudio.com
 df.gob.mx
+dhl-mybill.accountis.net
 dhl.com.mx
 diariooficial.gob.mx
 dictamenes.sat.gob.mx
 didi-food.com
 digicert.com
+digital-path.visualstudio.com
 directpayment.nexway.com
 displaycatalog.mp.microsoft.com
 dito.com.mx
@@ -482,6 +498,7 @@ fls-na.amazon.com.mx
 fmf.fe.apple-dns.net
 fmfmobile.fe.apple-dns.net
 fonacot.gob.mx
+fontawesome.com
 foxitsoftware.com
 fr-mrs-anx-r009.router.teamviewer.com
 fr-par-anx-r023.router.teamviewer.com
@@ -559,6 +576,7 @@ ibook.info
 icloud.com
 idiomas.gvamundial.com.mx
 idse.imss.gob.mx
+ieonline.microsoft.com
 iheart.com
 ihg.com
 ikus-solutions.com
@@ -572,6 +590,7 @@ imap.member.americanexpress.com
 imss.gob.mx
 inbound.americanexpress.com
 inbursa.com
+inconcertcc.com
 infonavit.org.mx
 informativas.sat.gob.mx
 infotec.gob.mx
@@ -612,6 +631,7 @@ jumex.com
 jvalle.com.mx
 kaspersky.com
 kayak.com.mx
+kit.fontawesome.com
 kof.ikus-solutions.com
 konnecta.net
 krones.edivolt.com
@@ -671,6 +691,7 @@ mapbox.com
 mapbox.com
 mapcruzin.com
 mapfeedback.here.com
+marketplace.visualstudio.com
 marriott.com
 mars.b2bservicios.com
 mars.productivo4.b2bservicios.com
@@ -729,12 +750,14 @@ mx-mex-anx-r005.router.teamviewer.com
 mx-mex-anx-r006.router.teamviewer.com
 mx.investing.com
 my.onetrust.com
+my.visualstudio.com
 mybill.dhl.com
 myca.americanexpress.com
 mycaoneslinger.americanexpress.com
 mydhl.dhl.com
 mydhl.express.dhl
 myqnapcloud.com
+myvisualiq.net
 mzstatic.com
 mzstorekit.itunes.apple.com
 naturalearthdata.com
@@ -799,6 +822,8 @@ pactivfm.ekomercio.com
 pages.dev
 pagos2.chopo.com.mx
 paic.plataforma.sat.gob.mx
+paltrack.visualstudio.com
+paltrack.vsrm.visualstudio.com
 panalpina.com
 paquetexpress.com.mx
 pase.com.mx
@@ -845,6 +870,8 @@ pricetravel.com.mx
 primeraplus.com.mx
 pro.ip-api.com
 procurement.conti.de
+prod.intellicode.vsengsaas.visualstudio.com
+prod.liveshare.vsengsaas.visualstudio.com
 prodps.capufe.gob.mx
 proveedor.arcacontal.com
 proveedor2.arcacontal.com
@@ -887,6 +914,7 @@ ro-buc-anx-r005.router.teamviewer.com
 rportal.hiperos.com
 rs-beg-anx-r006.router.teamviewer.com
 rsa.licdn.com
+rt.services.visualstudio.com
 rum-http-intake.logs.datadoghq.com
 s-icsoe.imss.gob.mx
 s.mzstatic.com
@@ -953,6 +981,7 @@ sgtm.kaspersky.de
 shcp.gob.mx
 siat.sat.gob.mx
 sidel.com
+signlr-prod.core.vsengsaas.visualstudio.com
 sipare.imss.gob.mx
 sipress.imss.gob.mx
 site3.q10.com
@@ -961,6 +990,7 @@ sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 slscr.update.microsoft.com
 smetrics.ariba.com
+smetrics.bbva.mx
 smp-device-content.apple.com
 smtpout.secureserver.net
 smy.iheart.com
@@ -975,6 +1005,11 @@ sourceforge.net
 southwest.com
 speed.cloudflare.com
 spiritair.com
+spsprodcus2.vssps.visualstudio.com
+spsprodeus27.vssps.visualstudio.com
+spsprodweu3.vssps.visualstudio.com
+spsprodweu4.vssps.visualstudio.com
+spsprodwus22.vssps.visualstudio.com
 srcdcf.americanexpress.com
 srcservicing.americanexpress.com
 srcsprofile.americanexpress.com
@@ -996,6 +1031,7 @@ static.services.online-banking.us.hsbc.com
 status.mobilex.vpc.hsbc.co.uk
 steren.com.mx
 store.officedepot.com.mx
+sts.online.visualstudio.com
 su.itunes.apple.com
 sukarne.com
 supplier.coupahost.com
@@ -1011,9 +1047,11 @@ tallersabermas.infonavit.org.mx
 teamviewer.com
 technet.microsoft.com
 tecmilenio.edu.mx
+telematics-e2e.visualstudio.com
 televia.com.mx
 telmex.com
 tepicmazatlan.com.mx
+thameswater.visualstudio.com
 ticketfactura.com
 tijuanatecate.com.mx
 time-ios.apple.com
@@ -1042,6 +1080,7 @@ unagi-na.amazon.com
 unagi.amazon.com.mx
 unefon.com.mx
 united.com
+update.code.visualstudio.com
 update.microsoft.com
 uplift-platform.com
 us-njc-anx-r017.router.teamviewer.com
@@ -1065,6 +1104,7 @@ vod-adaptive.akamaized.net
 volaris.com
 volaris.mx
 voltage-pp-0000.att.com
+vt.myvisualiq.net
 w3.org
 wac.phicdn.net
 walmart.com.mx
@@ -1074,11 +1114,13 @@ weather-data.apple.com
 weather-edge.news.apple-dns.net
 web.sedeb2b.com
 webbuilder.asiannet.com
+webchat-cls30.i6.inconcertcc.com
 webex.com
 webmail.americanexpress.com
 webmail.email.americanexpress.com
 webmail.member.americanexpress.com
 webportal.edicomgroup.com
+whereismytransport.visualstudio.com
 windowsupdate.com
 windowsupdate.microsoft.com
 wmr-cdn.3cx.net
@@ -1086,11 +1128,13 @@ workers.dev
 wradio.com.mx
 ws.microsoft.com
 wustat.windows.com
+ww16.tpv.grupoaereas.com
 www.americanexpress.com
 www.ariba.com
 www.empresas.hsbc.com.mx
 www.hsbc.com.mx
 www.hsbcnet.com
+www.pase.com.mxx
 www.personalsavings.americanexpress.com
 www.personalsavings.com
 www.secure.hsbcnet.com
@@ -1121,6 +1165,7 @@ www36.bbvanet.com.mx
 www361.americanexpress.com
 www37.bbvanet.com.mx
 www4.bbvanet.com.mx
+www4.oxxo.com
 www5.bbvanet.com.mx
 www54.sat.gob.mx
 wwwmat.sat.gob.mx
