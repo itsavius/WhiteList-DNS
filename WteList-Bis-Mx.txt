@@ -1,4 +1,9 @@
 #Datos Fijos
+wordpress.com
+i0.wp.com
+buscador.becasbenitojuarez.gob.mx
+cedula.becasbenitojuarez.gob.mx
+encuesta.becasbenitojuarez.gob.mx
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 captive.apple.com
